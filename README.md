@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png">
 
-[![DOI](https://zenodo.org/badge/133489645.svg)](https://zenodo.org/badge/latestdoi/133489645)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1435051.svg)](https://doi.org/10.5281/zenodo.1435051)
 
 This repository contains the source for a [BIRADS](https://en.wikipedia.org/wiki/BI-RADS) survey version developed using [LaTeX](https://en.wikipedia.org/wiki/LaTeX). The general template can be found on the [`src/`](src/) directory, while the *samples* can be found at [`samples/`](samples/) directory. We used the [LaTeX](https://www.latex-project.org/) format, a typesetting system that includes features designed for the production of technical and scientific documentation. [LaTeX](https://www.latex-project.org/) is available as [free software](https://www.latex-project.org/lppl/).
 
